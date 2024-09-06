@@ -1,0 +1,9 @@
+{
+  "name": "Hello world",
+  "packageName": "com.rk.hw",
+  "author": "Rohit",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "script": "main.bsh",
+  "icon": ""
+}

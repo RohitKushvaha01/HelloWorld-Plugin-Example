@@ -1,0 +1,7 @@
+title = "Message";
+message = "Hello world! 🥳\nModify main.bsh file to change the message";
+
+api.showPopup(title, message);
+//visit links below for all Api calls
+//https://github.com/RohitKushvaha01/Xed-Editor/blob/dev/docs%2FAPIDocumentation.md
+//https://github.com/RohitKushvaha01/Xed-Editor/blob/dev/libPlugin%2Fsrc%2Fmain%2Fjava%2Fcom%2Frk%2FlibPlugin%2Fserver%2Fapi%2FAPI.kt
