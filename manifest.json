@@ -6,5 +6,5 @@
   "versionCode": 1,
   "script": "main.bsh",
   "description":"example plugin",
-  "icon": ""
+  "icon": "icon.png"
 }
